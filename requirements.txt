@@ -1,0 +1,10 @@
+opencv-python
+labelme
+jupyter
+tensorflow
+numpy
+matplotlib
+
+
+
+
