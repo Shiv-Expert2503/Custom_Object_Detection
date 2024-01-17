@@ -12,3 +12,4 @@
 
 ## Progress
 1. For the preparation of the data I am using open cv and getting 90 to 100 images of my face and label them (DONE)
+2. Is to manually annotate the data..pending
